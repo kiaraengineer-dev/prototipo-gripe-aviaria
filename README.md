@@ -7,7 +7,7 @@ Este repositório contém o **protótipo de uma interface responsiva sobre Gripe
 [Figma – Protótipo Gripe Aviária](https://www.figma.com/design/SqiS9E5uC2i86FJlFIvvrH/Prot%C3%B3tipo-Gripe-Avi%C3%A1ria?node-id=0-1&t=A07gu4DmRasooRFa-1)
 
 
- -------
+-------
  
 
 📝 Descrição do projeto:
@@ -17,14 +17,14 @@ Este repositório contém o **protótipo de uma interface responsiva sobre Gripe
 - 🎯 Foco: Acessibilidade, clareza, navegação intuitiva  
 - 🧪 Teste de Usabilidade: Realizado com usuário real
 
-  ------
+------
 
 🧪 Testes e Casos de Uso:
 
  Testes de Usabilidade-
 Realizei testes de usabilidade com usuário real para garantir que a interface é intuitiva, acessível e fácil de navegar. Durante esses testes, coletei feedbacks importantes que ajudaram a aprimorar a experiência do usuário, tornando o protótipo mais eficiente e agradável.
 
-  ------
+------
 
  Casos de Uso:
  
@@ -36,7 +36,7 @@ O protótipo contempla diversos casos de uso para diferentes perfis de usuários
 Esses casos foram fundamentais para orientar o design e a navegação da interface, assegurando que o portal atenda às necessidades reais do público-alvo.
 
 
-  ------
+------
 
  🛠️ Ferramentas utilizadas:
 
@@ -45,22 +45,22 @@ Esses casos foram fundamentais para orientar o design e a navegação da interfa
 - Tipografia legível  
 - Arquitetura da informação
 
-  -------
+-------
   
 
  🧠 Aprendizados:
 
 > Neste projeto, trabalhei com a criação de personas, fluxos de navegação, wireframes e teste de usabilidade. Também explorei princípios de design visual e acessibilidade.
 
- ------
+------
 
 🖼️ Capturas de tela do protótipo:
 
-Tela Desktop:  
-![Tela Desktop](./nome-da-imagem-desktop.png)
+Tela Inicial Mobile  
+![Tela Inicial Mobile](./Tela%20Inicial%20Mobile.png)
 
-Tela Mobile:  
-![Tela Mobile](./nome-da-imagem-mobile.png)
+Tela Desktop  
+![Tela Desktop](./Tela%20Desktop.png)
 
 
 
